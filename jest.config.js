@@ -21,6 +21,7 @@ module.exports = {
     "<rootDir>/libs/components/jest.config.js",
     "<rootDir>/libs/electron/jest.config.js",
     "<rootDir>/libs/node/jest.config.js",
+    "<rootDir>/libs/importers/jest.config.js",
   ],
 
   // Workaround for a memory leak that crashes tests in CI:
