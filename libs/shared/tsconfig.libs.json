@@ -5,7 +5,8 @@
       "@bitwarden/common/*": ["../common/src/*"],
       "@bitwarden/angular/*": ["../angular/src/*"],
       "@bitwarden/electron/*": ["../electron/src/*"],
-      "@bitwarden/node/*": ["../node/src/*"]
+      "@bitwarden/node/*": ["../node/src/*"],
+      "@bitwarden/importers/*": ["../importers/src/*"]
     }
   }
 }
